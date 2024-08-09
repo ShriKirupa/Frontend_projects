@@ -1,0 +1,33 @@
+/*
+body{
+    background-color:#228ee0;
+}
+#clock{
+    color: white;
+    font-size:100px;
+    letter-spacing: 10px;
+    text-align:center;
+    padding-top:250px;
+}
+*/
+body {
+    background-image: url('image.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    justify-content: center; 
+    align-items: center; 
+}
+h1{
+    font-size: 90px;
+    font-family: Arial, sans-serif; 
+    color: white; 
+    text-align: center; 
+    
+}
+#timer,#clock,#date{
+    font-size: 80px;
+    font-family: Arial, sans-serif; 
+    color: white; 
+    text-align: center; 
+}
